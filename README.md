@@ -1,0 +1,3 @@
+This user web application connects to the database and provides authorization, authentication, and session tracking. The user must first successfully log in or register. If it does not have a specific permission, it cannot access any content. It is possible to add, delete and modify mobile phones. It is also possible to write a comment for a specific phone model. The user can only edit his comment. This application allows you to search for comments for a mobile phone. The backend was developed at Node.js using Express framework. The frontend was developed using the Vue.js framework. Input validation was done on the frontend and on the backend.
+
+![mobileimpressions](https://user-images.githubusercontent.com/72874908/113427808-fc96f200-93d5-11eb-93ef-a9a1dc04f03d.png)
